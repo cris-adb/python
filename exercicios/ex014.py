@@ -33,7 +33,7 @@ def selection_sort(lista):
     return lista
 
 # Testando o algoritmo
-numeros = [64, 25, 12, 22, 11]
+numeros = [34, 21, 10, 72, 8]
 print(f"Lista original: {numeros}")
 
 lista_ordenada = selection_sort(numeros)
