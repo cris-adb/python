@@ -1,0 +1,7 @@
+nome = input ('Qual seu nome?')
+Cristhyan = input ('Boa noite Cristhyan')
+nome2 = input ('Qual seu nome?')
+Luise = input ('Boa noite Luise')
+nome3 = input ('Qual seu nome?')
+Guanabara = input ('Boa noite Guanabara')
+print (nome, nome2, nome3)
